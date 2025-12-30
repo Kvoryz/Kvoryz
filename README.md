@@ -34,15 +34,16 @@ const kvory = {
 
 </div>
 
-### � Featured Projects
+### 📌 Featured Projects
 
 <div align="center">
 
-[![SuaraWarga](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=SuaraWarga&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/SuaraWarga)
-[![Music-playlist](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Music-playlist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Music-playlist)
-
-[![Portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Portofolio)
-[![Portofolio-V2](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Portofolio-V2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Portofolio-V2)
+| Project                                                        | Description               | Tech                                                                                                             |
+| -------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [**SuaraWarga**](https://github.com/Kvoryz/SuaraWarga)         | Public complaint platform | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)                      |
+| [**Music-playlist**](https://github.com/Kvoryz/Music-playlist) | Music player with lyrics  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Portofolio**](https://github.com/Kvoryz/Portofolio)         | Personal portfolio v1     | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                     |
+| [**Portofolio-V2**](https://github.com/Kvoryz/Portofolio-V2)   | Personal portfolio v2     | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)                  |
 
 </div>
 
