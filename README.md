@@ -34,41 +34,15 @@ const kvory = {
 
 </div>
 
----
-
-### 📊 GitHub Stats
+### � Featured Projects
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kvoryz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
+[![SuaraWarga](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=SuaraWarga&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/SuaraWarga)
+[![Music-playlist](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Music-playlist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Music-playlist)
 
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kvoryz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvoryz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kvorys.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riazrepo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kvory)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282399408885)
-
-</div>
-
----
-
-### 🎮 Discord Status
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/601347669105049600?theme=dark&bg=0D1117&borderRadius=10px&animated=true)](https://discord.com/users/601347669105049600)
+[![Portofolio](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Portofolio)
+[![Portofolio-V2](https://github-readme-stats.vercel.app/api/pin/?username=Kvoryz&repo=Portofolio-V2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Kvoryz/Portofolio-V2)
 
 </div>
 
